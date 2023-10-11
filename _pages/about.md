@@ -8,22 +8,17 @@ redirect_from:
   - /about.html
 ---
 
-I am a Courant instructor at [Courant Institute of Mathematical Sciences](https://cims.nyu.edu/dynamic/), New York University, and an incoming tenure-track assistant professor at  [Industrial Engineering & Management Science](https://www.mccormick.northwestern.edu/industrial/), Northwestern University. I received my Ph.D. degree in applied math from Stanford University in 2023 and my Bachelor’s degree in applied math from Peking University in 2019.
+I am a master student from [College of Engineering](https://engineering.berkeley.edu/), University of California Berkeley. I received my Bachelor’s degree in data science (CS+Math) from Yuanpei College at Peking University in 2022.
 
-> **Advertisement** I am happy to host (remote) undergraduate/graduate visitors and looking for Ph.D. Students. Prospective Students see [here](https://2prime.github.io/students/). You can also find information about my research [here](https://2prime.github.io/research/) 
+I am very fortunate to be advised by [Prof. XXX](https://www.XXX.com/) of XXX Lab from [School of Computer Science](https://cs.pku.edu.cn/), Peking University. I was advised by [Prof. XX](https://XXX.pku.edu.cn/) from [School of Computer Science](https://cs.pku.edu.cn/), Peking University.
 
 **To anyone:** I would appreciate [(anonymous) feedback](https://docs.google.com/forms/d/e/1FAIpQLScCWSzTQGMVKhxDVSiCopYD740Txm-cMoxIh-dg08FcRKT-8Q/viewform?usp=sf_link) about anything!
-
-The long-term goal of my research is to develop a hybrid scientific research discipline that combines <mark color='orange'>domain knowledge</mark> (differential equation, stochastic process, control,...), <mark color='orange'>machine learning</mark> and <mark color='orange'>(randomized) experiments</mark>. To this end, I'm working on an interdisciplinary research approach across probability and statistics, machine learning, numerical algorithms, control theory, signal processing/inverse problem, and operations research. 
 
 Here's my [<mark color='orange'>research statement</mark>](https://2prime.github.io/files/rs.pdf) and my latest [CV](https://www.overleaf.com/read/crybjbqmgxth).
 
 **Fine-grained research interest:** Scientific Machine Learning (AI4Science), Stochastic Simulation, Machine Learning Theory (RKHS, Empirical Process, Deep Learning), Inverse Problem, Robust Machine Learning
 
-**Contact**: yiping [dot] lu [at] nyu dot edu 
-
-**Office**: Office 0926, Warren Weaver Hall (CIWW), 251 Mercer St, New York, NY 10012
-
+**Contact**: yongkang0425@berkeley.edu 
 
 
 # Research Interest and Highlights
