@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Yiping Lu"
+title: "Yongkang Li"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
