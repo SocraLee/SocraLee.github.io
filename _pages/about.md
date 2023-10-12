@@ -24,16 +24,19 @@ Here's my latest [CV](https://www.overleaf.com/read/crybjbqmgxth).
 * University of California Berkeley
 
   Capstone Research Project (Advisor: Prof. Fleming Lee, School of Engineering)
+
   Sep. 2023 - Present
 
 * University of Washington
 
   Remote Research (Advisor:  [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/), School of Computer Science)
+  
   Jun. 2022 - Present
 
 * Peking University
 
   Undergraduate Research (Advisor:  [Prof. Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/), School of Computer Science)
+
   Jan. 2020 - Mar. 2021
 
 
