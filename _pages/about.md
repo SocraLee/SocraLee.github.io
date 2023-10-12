@@ -29,7 +29,7 @@ Here's my latest [CV](https://www.overleaf.com/read/crybjbqmgxth).
 * University of Washington
 
   Remote Research (Advisor:  [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/), School of Computer Science)
-  Sep. 2021 - Mar. 2022
+  Jun. 2022 - Present
 
 * Peking University
 
