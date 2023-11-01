@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Yiping Lu"
+title                    : "Yongkang Li"
 title_separator          : "-"
-name                     : &name "Yiping Lu"
+name                     : &name "Yongkang Li"
 description              : &description "personal description"
-url                      : https://2prime.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://socralee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "2prime/2prime.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Yiping Lu"
+  name             : "Yongkang Li"
   avatar           : "profile.png"
-  bio              : "Machine Learning, Numerical Algorithms, Applied Probability"
-  location         : #"Location"
-  employer         : "Courant Instructor, <br>Incoming AP @Northwestern IEMS"
-  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=NmhvVBgAAAAJ"
-  email            : "yiping.lu@nyu.edu"
-  researchgate     : "https://www.researchgate.net/profile/Yiping-Lu-5"
+  bio              : "Natural Language Processing, Large Language Model, Machine Learning"
+  location         : #"Berkeley"
+  employer         : #""
+  pubmed           : #""
+  googlescholar    : #""
+  email            : "yongkang0425@berkeley.edu"
+  researchgate     : #""
   uri              :
   bitbucket        :
   codepen          :
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UCImue1V2lJc6eMo9srzv83A"
+  youtube          : #"https://www.youtube.com/channel/UCImue1V2lJc6eMo9srzv83A"
   wikipedia        :
 
 
@@ -253,8 +253,8 @@ sass:
 
 # Outputting
 permalink: /:categories/:title/
-# paginate: 5 # amount of posts to show
-# paginate_path: /page:num/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
 timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
