@@ -14,7 +14,7 @@ I am very fortunate to be advised by [Prof. Ming Zhang](http://net.pku.edu.cn/dl
 
 My research interest lies in natural language processing and especially augmented large language models.
 
-Here's my latest [CV](https://www.overleaf.com/read/crybjbqmgxth).
+Here's my latest [CV](../assets/YongkangCV.pdf).
 
 **Contact**: yongkang0425@berkeley.edu 
 
