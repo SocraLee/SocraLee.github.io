@@ -1,13 +1,21 @@
 ---
-title: 'Future Blog Post'
-date: 2199-01-01
+title: 'PaperReading: ToolDec-Using Finite-State-Machine to Decode'
+date: 2023-10-14
 permalink: /posts/2012/08/blog-post-4/
 tags:
-  - cool posts
-  - category1
-  - category2
+  - NLP
+  - LLM
 ---
 
-Coming Soon
+# [ToolDec](https://arxiv.org/abs/2310.07075)
+Using FSM to enhance augmented LLM.
+## Key intuition and motivation: 
+the generation of api calls can be explicitly represented using states. By eliminating tokens outside the predefined states vocabulary, we can greatly reduce hallucinations.
+Core contribution: beyond a extensible method in augmented LLM, it provides a general method of incorporating domain-knowledge to eliminate hallucinations.
 
-This post will show up by default. To disable scheduling of future posts, edit `config.yml` and set `future: false`. 
+## Future direction: 
+In LLM applications (in augmented LLM or biomedical), a core problem is how to incorporate prior knowledge with LLM to avoid mistakes and hallucinations. FSM is good for tool usage, but not transferable for other domains such as biomedical.
+Following this research line, the next step could be developing a general method that use prior knowledge to find a high-quality reliable subset of tokens which eliminate hallucinations as much as possible.
+
+For example, use "phrase" (in tool usage, api name is a phrase, in API decode, type and according parameter is somehow a "phrase") to eliminate hallucinations.
+
