@@ -23,7 +23,7 @@ Here's my latest [CV](../assets/YongkangCV.pdf).
 
 * University of Washington (Jun. 2022 - Present)
 
-  Using large language models to solve biomedical problem in a interpretable way.
+  Using large language models to solve biomedical problem in an interpretable way.
 
   Remote Research (Advisor:  [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/), School of Computer Science)
 
