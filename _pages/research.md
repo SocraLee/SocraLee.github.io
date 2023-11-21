@@ -9,9 +9,11 @@ redirect_from:
 
 ## BioLlama: Biomedical Inference Via Tool-Augmented Large Language Model
 
-Despite the large amount of publicly available information such as document and examples, most biomedical APIs requires lots of domain knowledge and time to master. Our motivation is to train a large language model to automatically solve user-assigned biomedical inference task using only the related API document. To be more specific, user give a task description and an API document, our model will directly give an executable script to solve the task.
+Despite the large amount of publicly available information such as document and examples, most biomedical APIs require a wealth of expertise and a lot of time to master. To relieve biomedical researchers from this trouble, we train large language models to automatically solve user-assigned biomedical inference task. 
 
-In fact, there are already efficient retrievers that can automatically find the related API documents based on task description. Therefore, user only need to provide the task description, and a pipeline based on our model and retriever will automatically solve the user's needs.
+To be more specific, user only need to give a task description and an API document, our model will take over and directly give an executable script to solve the task.
+
+In fact, there are already efficient retrievers that can automatically find the related API documents based on task description. Therefore, the only thing the user need to provide is the task description. Then a pipeline based on our model can take over and automatically solve the user's needs.
 
 Sep. 2023 - Now
 
