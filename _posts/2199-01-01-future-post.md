@@ -6,8 +6,6 @@ tags:
   - NLP
   - LLM
 ---
-
-#### [ToolDec](https://arxiv.org/abs/2310.07075)
 Using FSM to enhance augmented LLM.
 ### Key intuition and motivation: 
 the generation of api calls can be explicitly represented using states. By eliminating tokens outside the predefined states vocabulary, we can greatly reduce hallucinations.
@@ -18,4 +16,6 @@ In LLM applications (in augmented LLM or biomedical), a core problem is how to i
 Following this research line, the next step could be developing a general method that use prior knowledge to find a high-quality reliable subset of tokens which eliminate hallucinations as much as possible.
 
 For example, use "phrase" (in tool usage, api name is a phrase, in API decode, api name and parameter type are somehow "phrase") to eliminate hallucinations.
+
+Paper link: [ToolDec](https://arxiv.org/abs/2310.07075)
 
