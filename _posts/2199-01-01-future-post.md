@@ -1,5 +1,5 @@
 ---
-title: 'PaperReading: ToolDec-Using Finite-State-Machine to Decode'
+title: '[PaperReading] ToolDec: Using Finite-State-Machine to Eliminate Hallucinations in LLM Decoding'
 date: 2023-12-6
 permalink: /posts/2023/10/blog-post-1/
 tags:
