@@ -1,13 +1,13 @@
 ---
 title: 'PaperReading: ToolDec-Using Finite-State-Machine to Decode'
 date: 2023-10-14
-permalink: /posts/2012/08/blog-post-4/
+permalink: /posts/2023/10/blog-post-1/
 tags:
   - NLP
   - LLM
 ---
 
-# [ToolDec](https://arxiv.org/abs/2310.07075)
+### [ToolDec](https://arxiv.org/abs/2310.07075)
 Using FSM to enhance augmented LLM.
 ## Key intuition and motivation: 
 the generation of api calls can be explicitly represented using states. By eliminating tokens outside the predefined states vocabulary, we can greatly reduce hallucinations.
