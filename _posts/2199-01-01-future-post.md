@@ -6,7 +6,7 @@ tags:
   - NLP
   - LLM
 ---
-Using FSM to enhance augmented LLM.
+Using FSM to enhance tool-augmented LLM.
 ### Key intuition and motivation: 
 the generation of api calls can be explicitly represented using states. By eliminating tokens outside the predefined states vocabulary, we can greatly reduce hallucinations.
 Core contribution: beyond a extensible method in augmented LLM, it provides a general method of incorporating domain-knowledge to eliminate hallucinations.
