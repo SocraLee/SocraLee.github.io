@@ -1,6 +1,6 @@
 ---
 title: 'PaperReading: ToolDec-Using Finite-State-Machine to Decode'
-date: 2023-10-14
+date: 2023-12-6
 permalink: /posts/2023/10/blog-post-1/
 tags:
   - NLP
