@@ -18,6 +18,8 @@ Here's my latest [CV](../assets/YongkangCV.pdf).
 
 **Contact**: yongkang0425@berkeley.edu 
 
+# News
+* **We are finalizing the draft of BioLlama. Preview our demo for BioLlama [Here](https://huggingface.co/spaces/TorpilleAlpha/TorpilleAlpha-scanpy-llama)!**
 
 # Experiences
 
