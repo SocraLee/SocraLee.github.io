@@ -7,32 +7,22 @@ redirect_from:
   - /research
 ---
 
-## BioLlama: Biomedical Inference Via Tool-Augmented Large Language Model
-#### Independent Research, Advisor Prof. Sheng Wang
-
-Despite the large amount of publicly available information such as document and examples, most biomedical APIs require a wealth of expertise and a lot of time to master. To relieve biomedical researchers from this trouble, we train large language models to automatically solve user-assigned biomedical inference task. 
-
-To be more specific, user only need to give a task description and an API document, our model will take over and directly give an executable script to solve the task.
-
-In fact, there are already efficient retrievers that can automatically find the related API documents based on task description. Therefore, the only thing the user need to provide is the task description. Then a pipeline based on our model can take over and automatically solve the user's needs.
-
-Sep. 2023 - Now
+## ChemDiffuse: 3D Super-resolution chemical imaging via Diffusion-based Generative Model
+Oct 2024 – Now 
+- Developed ChemDiffuse for 3D super-resolution chemical imaging, targeting 40x resolution enhancement (4x in x-y plane, 10x in z-axis) and 160x lab sampling speed.
+- Currently refining 3D diffusion implementation with promising initial results.
 
 
+## Multi-agent System for Single Cell Analysis
+May 2024 – Aug 2024
+- Streamlined programming into three steps: requirement parsing, API assignment, and parameter selection/programming, each handled by an LLM group.
+- Evaluated the performance of multi-agent systems compared to single language models, demonstrating significant improvements.
+- Halted development after identifying a recent published system with broader library coverage and versatility.
 
-## Enhance Biomedical Task with GPT4
-#### Independent Research, Advisor Prof. Sheng Wang
-Use GPT-4-generated biomedical information to enhance biomedical task. Our motivation is that gpt4 can be introduced into biomedical tasks by generating extra information that is orthogonal to the original task features. Intuitively, broad tasks can benefit in this way.
 
-This project failed to outperform the baseline. A major reason could be the quality of embedding. At that time, we only had access to models such as BERT or BioBERT to encode the generated content, and we did not have access to GPT3.5 embedding. Recently, a similar work [GenePT](https://www.biorxiv.org/content/10.1101/2023.10.16.562533v1.full.pdf) using GPT3.5 embedding achieved success.
 
-Mar. 2023- Aug. 2023
+## GNN-based Cross-domain Recommender System
+Feb 2021 - Aug 2021
+- Developed cross-domain recommender system to address cold start issues.
+- Utilized attention-based graph neural networks, achieved significant improvement and published a paper.
 
-## Deep Graph Mutual Learning for Cross-domain Recommendation
-#### Group Research, Advisor Prof. Ming Zhang
-The cold-start problem has always attracted much attention in the field of recommendation systems. By leveraging information from mutil-domains, cold-start problem can be alleviated. Our motivation is that mutual learning strategy can be an efficient method to model the information flow between different domains.
-
-We employed graph neural network to obtain extensive features for the cold-start users and employed mutual learning method to enhance the users' representation in the target domains.
-
-Our project consistently outperformed the baselines. We presented our paper at the 27th International Conference on Database Systems for Advanced Applications
-(DASFAA). And extended the work to the journal Expert Systems with Applications.
