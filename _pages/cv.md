@@ -14,6 +14,7 @@ Education
 
 - B.S. in Data Science, Yuanpei College, Peking University, 2018-2022
 - M.Eng. in IEOR, College of Engineering, University of California Berkeley, 2023-2024
+- Ph.D in Compute Science, Paul Allen School of CSE, University of Washington, 2024-Now
 
 
 Selected Honors and Awards

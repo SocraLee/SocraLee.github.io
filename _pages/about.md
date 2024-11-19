@@ -8,40 +8,36 @@ redirect_from:
   - /about.html
 ---
 
-I am a master student from [College of Engineering](https://engineering.berkeley.edu/), University of California Berkeley. I received my B.S. degree in Data Science (CS+Math) at Peking University in 2022. I was also the second place(2/983000) of the Henan College Entrance Exam in 2018.
+I am a PhD student from University of Washington, advised by [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) . Previously, I received my M.Eng. degree at College of Engineering, UC Berkeley and my B.S. degree in Data Science at Peking University in 2022. I was also the second place(2/983000) of the Henan College Entrance Exam in 2018.
 
-I am very fortunate to be advised by [Prof. Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/) of DLib from [School of Computer Science](https://cs.pku.edu.cn/), Peking University, and [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) from [Paul G. Allen School of Computer Science](https://www.cs.washington.edu/), University of Washington.
+My research focuses on facilitating science discovery with deep learning techniques.
 
-My research interest lies in natural language processing and especially augmented large language models.
+Here's my latest [CV](/assets/YongkangCV_2024Nov12th.pdf).
 
-Here's my latest [CV](../assets/YongkangCV.pdf).
+**Contact**: yongkang@uw.edu
 
-**Contact**: yongkang0425@berkeley.edu 
+[//]: # (# News)
 
-# News
-* **We are finalizing the draft of BioLlama. Preview our demo for BioLlama [Here](https://huggingface.co/spaces/TorpilleAlpha/TorpilleAlpha-scanpy-llama)!**
-
-# Experiences
-
-* University of Washington (Jun. 2022 - Present)
-
-  Using large language models to solve biomedical problem in an interpretable way.
-
-  Remote Research (Advisor:  [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/), School of Computer Science)
+[//]: # (* **Yongkang became the reviewer of RECOMB 2024!**)
 
 
-* University of California Berkeley (Sep. 2023 - Present)
+# Selected Honors and Awards
+- Second Place in Henan College Entrance Exam (out of 983,000 students), 2018
+- First Prize of Freshmen Scholarship, 2018
+- Merit Undergraduate Research, 2022
+- Yuanpei College Academic Star, 2022
+- Yuanpei College Outstanding Graduate, 2022
 
-  Combining CV and large language model to reveal paper-patent pairs.
-  
-  Capstone Research Project (Advisor: Prof. Fleming Lee, School of Engineering)
 
+# Miscellaneous
 
-* Peking University (Jan. 2020 - Mar. 2021)
-  
-  Research on a graph-neural-network based multi-domain recommender system
+In my spare time, I love playing competitive video games and enjoy using my strategy as well as talents to defeat my opponents in the ladder. I am a GrandMaster/Master player for multiple video games. Below is a glimpse of my gaming expertise:
 
-  Undergraduate Research (Advisor:  [Prof. Ming Zhang](http://net.pku.edu.cn/dlib/mzhang/), School of Computer Science)
+- GrandMaster, No.50 on the CN server, [Heroes of the Storm](https://heroesofthestorm.blizzard.com/). I have a win rate of 70% in GM rank during my peak season.
+- GrandMaster, Top 0.5% on the CN server, [Naraka Bladepoint](https://www.yjwujian.cn/).
+- Master, Top 3% on the NA server, [Valorant](https://playvalorant.com/).
+- Master, [Teamfight Tactics Mobile(China)](https://teamfighttactics.leagueoflegends.com/). 
+- Top 20%, [Chess](https://chess.com/). I started to learn Chess months ago and am quickly climbing the Elo ranks. The master title in Chess is highly distinguishable and will make a fine addition to my collection
 
 
 <br> 
