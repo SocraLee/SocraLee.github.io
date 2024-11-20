@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student from University of Washington, advised by [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/) . Previously, I received my M.Eng. degree at College of Engineering, UC Berkeley and my B.S. degree in Data Science at Peking University in 2022. I was also the second place(2/983000) of the Henan College Entrance Exam in 2018.
+I am a PhD student from University of Washington, advised by [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/). Previously, I received my M.Eng. degree from UC Berkeley in 2024 and my B.S. degree from Peking University in 2022. I was also the second place(2/983000) of the Henan College Entrance Exam in 2018.
 
 My research focuses on facilitating science discovery with deep learning techniques.
 
