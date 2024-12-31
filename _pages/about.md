@@ -34,9 +34,9 @@ Here's my latest [CV](/assets/YongkangCV_2024Nov12th.pdf).
 In my spare time, I love playing competitive video games and enjoy using my strategy as well as talents to defeat my opponents in the ladder. I am a GrandMaster/Master player for multiple video games. Below is a glimpse of my gaming expertise:
 
 - GrandMaster, No.50 on the CN server, [Heroes of the Storm](https://heroesofthestorm.blizzard.com/). I have a win rate of 70% during my peak season.
-- GrandMaster, Top 0.5% on the CN server, [Naraka Bladepoint](https://www.yjwujian.cn/).
-- GrandMaster, Top 1% (Immortal) on the CN server, [Valorant](https://playvalorant.com/).
-- Master, [Teamfight Tactics Mobile(China)](https://teamfighttactics.leagueoflegends.com/). 
+- GrandMaster(Asura), Top 0.5% on the CN server, [Naraka Bladepoint](https://www.yjwujian.cn/).
+- GrandMaster(Immortal), Top 1%  on the CN server, [Valorant](https://playvalorant.com/).
+- GrandMaster, [Teamfight Tactics Mobile(China)](https://teamfighttactics.leagueoflegends.com/). 
 - Top 20%, [Chess](https://chess.com/). I started to learn Chess months ago and am quickly climbing the Elo ranks. The master title in Chess is highly distinguishable and will make a fine addition to my collection
 
 
