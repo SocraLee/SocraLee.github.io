@@ -33,12 +33,15 @@ Here's my latest [CV](/assets/YongkangCV_2024Nov12th.pdf).
 
 In my spare time, I love playing competitive video games and enjoy using my strategy as well as talents to defeat my opponents in the ladder. I am a GrandMaster/Master player for multiple video games. Below is a glimpse of my gaming expertise:
 
-- GrandMaster, No.50 on the CN server, [Heroes of the Storm](https://heroesofthestorm.blizzard.com/). I have a win rate of 70% during my peak season. See my clips [here](https://www.bilibili.com/video/BV1Bh411Z73X/).
-- GrandMaster, Top 0.5% on the NA server. Marvel Rivals. I have a KDA See my clips [here](https://www.bilibili.com/video/BV1EJFNevExV/).
-- GrandMaster(Immortal), Top 1%  on the CN server, [Valorant](https://playvalorant.com/). See my clips [here](https://www.bilibili.com/video/BV1UYztYaEYA/)
-- GrandMaster(Asura), Top 0.5% on the CN server, [Naraka Bladepoint](https://www.yjwujian.cn/).
-- GrandMaster, [Teamfight Tactics Mobile(China)](https://teamfighttactics.leagueoflegends.com/). 
-- Top 20%, [Chess](https://chess.com/). I started to learn Chess months ago and am quickly climbing the Elo ranks. The master title in Chess is highly distinguishable and will make a fine addition to my collection
+- 🏆 GrandMaster, No.50 on the CN server, [Heroes of the Storm](https://heroesofthestorm.blizzard.com/). I have a win rate of 70% (solo queue) during my peak season. 
+  - ▶️ [Highlight Reel](https://www.bilibili.com/video/BV1Bh411Z73X/)
+- 🏆 GrandMaster, Top 0.5% on the NA server. Marvel Rivals. 
+  - ▶️ [Highlight Reel](https://www.bilibili.com/video/BV1EJFNevExV/)
+- 🏆 GrandMaster(Immortal), Top 1%  on the CN server, [Valorant](https://playvalorant.com/).
+  - ▶️ [Highlight Reel](https://www.bilibili.com/video/BV1UYztYaEYA/)
+- 🏆 GrandMaster(Asura), Top 0.5% on the CN server, [Naraka Bladepoint](https://www.yjwujian.cn/).
+- 🏆 GrandMaster, [Teamfight Tactics Mobile(China)](https://teamfighttactics.leagueoflegends.com/). 
+- ♟️ Top 20% Globally, [Chess](https://chess.com/). I started to learn Chess months ago and am quickly climbing the Elo ranks. The master title in Chess is highly distinguishable and will make a fine addition to my collection
 
 <br> 
 <br> 
