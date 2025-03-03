@@ -16,9 +16,9 @@ Here's my latest [CV](/assets/YongkangCV_2024Nov12th.pdf).
 
 **Contact**: yongkang@uw.edu
 
-[//]: # (# News)
+# News
 
-[//]: # (* **Yongkang became the reviewer of RECOMB 2024!**)
+* Yongkang became the reviewer of RECOMB 2024!
 
 
 # Selected Honors and Awards
@@ -35,9 +35,9 @@ In my spare time, I love playing competitive video games and enjoy using my stra
 
 - 🏆 GrandMaster, No.50 on the CN server, [Heroes of the Storm](https://heroesofthestorm.blizzard.com/). I have a win rate of 70% (solo queue) during my peak season. 
   - ▶️ [Highlight Reel](https://www.bilibili.com/video/BV1Bh411Z73X/)
-- 🏆 GrandMaster, Top 0.5% on the NA server. Marvel Rivals. 
+- 🏆 GrandMaster(Celestial), Top 0.5% on the NA server. [Marvel Rivals](https://www.marvelrivals.com/). 
   - ▶️ [Highlight Reel](https://www.bilibili.com/video/BV1EJFNevExV/)
-- 🏆 GrandMaster(Immortal), Top 1%  on the CN server, [Valorant](https://playvalorant.com/).
+- 🏆 GrandMaster(Immortal), Top 1%  on the CN and NA server, [Valorant](https://playvalorant.com/).
   - ▶️ [Highlight Reel](https://www.bilibili.com/video/BV1UYztYaEYA/)
 - 🏆 GrandMaster(Asura), Top 0.5% on the CN server, [Naraka Bladepoint](https://www.yjwujian.cn/).
 - 🏆 GrandMaster, [Teamfight Tactics Mobile(China)](https://teamfighttactics.leagueoflegends.com/). 
