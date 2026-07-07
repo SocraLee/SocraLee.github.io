@@ -10,15 +10,22 @@ redirect_from:
 
 I am a PhD student from University of Washington, advised by [Prof. Sheng Wang](https://homes.cs.washington.edu/~swang/). Previously, I received my M.Eng. degree from UC Berkeley in 2024 and my B.S. degree from Peking University in 2022. I was also the second place(2/983000) of the Henan College Entrance Exam in 2018.
 
-My research focuses on facilitating science discovery with deep learning techniques.
+My research focuses on building foundation models for biomedicine, facilitating scientific discovery with deep learning techniques.
 
-Here's my latest [CV](/assets/YongkangCV_2024Nov12th.pdf).
+Here's my latest [CV](/assets/YongkangCV_2026Jul6th.pdf).
 
 **Contact**: yongkang@uw.edu
 
 # News
 
-* Yongkang became the reviewer of RECOMB 2024!
+* Our work **MicroDiffuse3D**, a foundation model for 3D microscopy imaging restoration, is under review.
+* Our work **Evo2HiC**, a multimodal foundation model for genome sequence and architecture, is in revision.
+* Yongkang became the reviewer of RECOMB 2025, RECOMB 2026 and Genome Research!
+
+
+# Experience
+
+- **Research Scientist Intern**, GE HealthCare, Seattle (May 2024 – Aug 2024). Developed a multi-agent system for single cell analysis, enabling low-code solutions in the field.
 
 
 # Selected Honors and Awards
@@ -27,18 +34,6 @@ Here's my latest [CV](/assets/YongkangCV_2024Nov12th.pdf).
 - Merit Undergraduate Research, 2022
 - Yuanpei College Academic Star, 2022
 - Yuanpei College Outstanding Graduate, 2022
-
-
-# Miscellaneous
-
-In my spare time, I love playing competitive video games and enjoy using my strategy as well as talents to defeat my opponents in the ladder. I am a GrandMaster/Master player for multiple video games. Below is a glimpse of my gaming expertise:
-
-- 🏆 GrandMaster, No.50 on the CN server, [Heroes of the Storm](https://heroesofthestorm.blizzard.com/). I have a win rate of 70% (solo queue) during my peak season. [Highlight Reel](https://www.bilibili.com/video/BV1Bh411Z73X/)
-- 🏆 GrandMaster(Immortal), Top 0.5% on the CN and NA server, [Valorant](https://playvalorant.com/). [Highlight Reel](https://www.bilibili.com/video/BV1kS7wzBEvD/)
-- 🏆 GrandMaster(Celestial), Top 0.5% on the NA server. [Marvel Rivals](https://www.marvelrivals.com/). [Highlight Reel](https://www.bilibili.com/video/BV1EJFNevExV/)
-- 🏆 GrandMaster(Asura), Top 0.5% on the CN server, [Naraka Bladepoint](https://www.yjwujian.cn/).
-- 🏆 GrandMaster, [Teamfight Tactics Mobile(China)](https://teamfighttactics.leagueoflegends.com/). 
-- ♟️ Top 20% Globally, [Chess](https://chess.com/). I started to learn Chess months ago and am quickly climbing the Elo ranks. The master title in Chess is highly distinguishable and will make a fine addition to my collection
 
 <br> 
 <br> 

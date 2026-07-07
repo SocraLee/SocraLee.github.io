@@ -7,14 +7,21 @@ redirect_from:
   - /resume
 ---
 
-Here is a more detailed pdf version : [Yongkang's CV](../assets/YongkangCV.pdf).
+Here is a more detailed pdf version : [Yongkang's CV](/assets/YongkangCV_2026Jul6th.pdf).
 
 Education
 ======
 
 - B.S. in Data Science, Yuanpei College, Peking University, 2018-2022
 - M.Eng. in IEOR, College of Engineering, University of California Berkeley, 2023-2024
-- Ph.D in Compute Science, Paul Allen School of CSE, University of Washington, 2024-Now
+- Ph.D. in Computer Science, Paul G. Allen School of CSE, University of Washington, 2024-Now
+
+
+Experience
+======
+
+- Research Scientist Intern, GE HealthCare, Seattle, May 2024 - Aug 2024
+  - Developed a multi-agent system for single cell analysis, enabling low-code solutions in the field.
 
 
 Selected Honors and Awards
