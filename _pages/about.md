@@ -25,6 +25,7 @@ Here's my latest [CV](/assets/YongkangCV_2026Jul6th.pdf).
 
 # Experience
 
+- **Research Intern**, Microsoft, Redmond (Jun 2026 – Present). Building an LLM-agent system that translates clinical guidelines into interpretable, executable diagnostic scripts, iteratively refined by validating against labeled patient cases.
 - **Research Scientist Intern**, GE HealthCare, Seattle (May 2024 – Aug 2024). Developed a multi-agent system for single cell analysis, enabling low-code solutions in the field.
 
 

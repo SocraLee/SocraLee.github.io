@@ -20,6 +20,9 @@ Education
 Experience
 ======
 
+- Research Intern, Microsoft, Redmond, Jun 2026 - Present
+  - Building an LLM-agent system that translates clinical guidelines into interpretable, executable diagnostic scripts, then iteratively refines them by validating against labeled patient cases.
+  - Grounding each refinement in failing and successful cases, with every edit justified by explicit reasoning and logged, yielding a fully auditable and interpretable diagnostic system.
 - Research Scientist Intern, GE HealthCare, Seattle, May 2024 - Aug 2024
   - Developed a multi-agent system for single cell analysis, enabling low-code solutions in the field.
 
