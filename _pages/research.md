@@ -8,14 +8,14 @@ redirect_from:
 ---
 
 ## MicroDiffuse3D: Foundation Model for 3D Microscopy Imaging Restoration
-2025 – Now
+2024 – 2026
 - Developed MicroDiffuse3D, the first volumetric restoration foundation model for 3D microscopy imaging.
 - Addressed the challenging 16-fold volumetric sparsity super-resolution task.
 - Achieved state-of-the-art performance across multiple benchmark datasets.
 
 
 ## Evo2HiC: Multimodal Foundation Model for Genome Sequence and Architecture
-2024 – 2025
+2025 – 2026
 - Developed Evo2HiC, a HiC-regularized distillation model of Evo2 that integrates long-context genomic modeling with HiC structural information into a compact and efficient CNN encoder.
 - Enabled a wide range of downstream applications, including high-accuracy epigenomic prediction, interpretable motif identification, and cross-species HiC resolution enhancement for 177 species.
 

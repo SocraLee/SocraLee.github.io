@@ -18,9 +18,9 @@ Here's my latest [CV](/assets/YongkangCV_2026Jul6th.pdf).
 
 # News
 
-* Our work **MicroDiffuse3D**, a foundation model for 3D microscopy imaging restoration, is under review.
-* Our work **Evo2HiC**, a multimodal foundation model for genome sequence and architecture, is in revision.
-* Yongkang became the reviewer of RECOMB 2025, RECOMB 2026 and Genome Research!
+* Yongkang became a reviewer of RECOMB 2025.
+* Yongkang became a reviewer of RECOMB 2026.
+* Yongkang became a reviewer of Genome Research.
 
 
 # Experience
