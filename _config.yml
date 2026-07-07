@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Yongkang Li"
 title_separator          : "-"
 name                     : &name "Yongkang Li"
-description              : &description "personal description"
+description              : &description "Yongkang Li's personal academic homepage. PhD student at University of Washington working on deep learning for science discovery."
 url                      : https://socralee.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "SocraLee/SocraLee.github.io"
@@ -73,7 +73,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "google-universal" # false (default), "google", "google-universal", "custom"
+  provider               :  false # false (default), "google", "google-universal", "custom"
   google:
     tracking_id          :
 
@@ -96,7 +96,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : #"academicpages"
+  github           : "SocraLee"
   google_plus      :
   keybase          :
   instagram        :
